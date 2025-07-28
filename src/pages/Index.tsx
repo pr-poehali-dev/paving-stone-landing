@@ -15,7 +15,7 @@ const Index = () => {
       name: 'Брусчатка классическая',
       category: 'classic',
       price: '1,200₽/м²',
-      image: '/img/44cef76b-18b1-4a54-87f5-fe82181f89a4.jpg',
+      image: '/img/389e151b-ecc9-4b47-acf8-6dbd05ba652f.jpg',
       description: 'Прочная брусчатка для дорожек и площадей'
     },
     {
@@ -23,7 +23,7 @@ const Index = () => {
       name: 'Тротуарная плитка "Волна"',
       category: 'decorative',
       price: '950₽/м²',
-      image: '/img/302876cd-0a52-4e0f-8ea9-9294cebb15c5.jpg',
+      image: '/img/4fe0adf6-717f-46ca-89fa-89a59216f6a8.jpg',
       description: 'Декоративная плитка с рельефной поверхностью'
     },
     {
@@ -133,7 +133,7 @@ const Index = () => {
         </div>
         <div className="absolute right-0 top-0 w-1/2 h-full opacity-10">
           <img 
-            src="/img/44cef76b-18b1-4a54-87f5-fe82181f89a4.jpg" 
+            src="/img/389e151b-ecc9-4b47-acf8-6dbd05ba652f.jpg" 
             alt="Тротуарная плитка" 
             className="w-full h-full object-cover"
           />
